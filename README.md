@@ -18,7 +18,7 @@
 
 [twitter]: https://twitter.com/Jane
 [instagram]: https://www.instagram.com/Jane
-[linkedin]: https://linkedin.com/in/Jane
+[linkedin]: https://www.linkedin.com/in/emmanuel-dufort-88187861/)
 
 
 Here are some ideas to get you started:
